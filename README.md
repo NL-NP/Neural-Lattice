@@ -3,7 +3,7 @@
 The **Neural Lattice** is an open, structured knowledge framework designed to unify the understanding of mathematics, physics, chemistry, and biology through rigorously interconnected "nodes" of knowledge.
 
 > **Mission:**  
-> To provide free, high-quality educational resources accessible to everyone, while preserving intellectual rigor and preventing commercialization abuse.
+> To provide free, high-quality educational resources accessible to everyone completely free of any charge, while preserving intellectual rigor.
 
 ---
 
@@ -34,20 +34,19 @@ The Neural Lattice is divided into:
 
 ---
 
-~## 🛠️ How to Contribute
+## 🛠️ How to Contribute
 
 curently unavailable 
 
 (Full CLA details will be provided in `CONTRIBUTOR_LICENSE_AGREEMENT.md`.)
-~~
+
 
 ---
 
 ## 🚀 Project Status
-- Current Phase: **Initialization**  
-  - Focus on releasing core nodes and minimal viable tools.
-  - Prioritizing content deployment over volume perfection.
+- Current Phase: **Initialization**
 
+  
 Follow the progress on the **[Road-map.md](#)**
 
 
