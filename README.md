@@ -1,6 +1,6 @@
 # 🧠 Neural Lattice
 
-The **Neural Lattice** is an open, structured knowledge framework designed to unify the understanding of mathematics, physics, chemistry, and biology through rigorously interconnected "nodes" of knowledge.
+The **Neural Lattice** is an open, structured knowledge framework designed to provide an interactive, interconnected and accesible experience in learning, with a focus on Mathematics, Physics, Chemistry, and Biology. 
 
 > **Mission:**  
 > To provide free, high-quality educational resources accessible to everyone completely free of any charge, while preserving intellectual rigor.
