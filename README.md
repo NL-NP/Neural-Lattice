@@ -1,6 +1,6 @@
-# 🧠 Neural Lattice
+# 🧠 Mnemosyne
 
-The **Neural Lattice** is an open, structured knowledge framework designed to provide an interactive, interconnected and accesible experience in learning, with a focus on Mathematics, Physics, Chemistry, and Biology. 
+The **Mnemosyne** is an open, structured knowledge framework designed to provide an interactive, interconnected and accesible experience in learning, with a focus on Mathematics, Physics, Chemistry, and Biology. 
 
 > **Mission:**  
 > To provide free, high-quality educational resources accessible to everyone completely free of any charge, while preserving intellectual rigor.
@@ -9,7 +9,7 @@ The **Neural Lattice** is an open, structured knowledge framework designed to pr
 
 ## 📚 Project Structure
 
-The Neural Lattice is divided into:
+The Mnemosyne is divided into:
 - **Nodes (Educational Content):**  
   - Definitions, proofs, visualizations, examples, problems.
   - Organized in deployable "chapters" for modular learning.
