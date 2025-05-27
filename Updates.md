@@ -19,7 +19,7 @@ The Following Topics will be the focus of this project in the current stage:
 - 2.003 Optics
 - 2.004 Thermodynamics
 - 2.005 Fluid Dynamics
-- 2.006 Nuclear and Particle Physics
+- 2.006 Quantum mechanics
 - 2.007 Atomic and molecular Physics
 - 2.008 Condensed mattter Physics
 - 2.009 Astronomy
