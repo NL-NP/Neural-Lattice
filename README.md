@@ -4,6 +4,8 @@ The **Mnemosyne** is an open, structured knowledge framework designed to provide
 
 > **Mission:**  
 > To provide free, high-quality educational resources accessible to everyone completely free of any charge, while preserving intellectual rigor.
+> To provide a platform for all educators to be able to use without restrictions.
+> To provide a centralized platform for Researchers to share knowledge with ease, from discussion to formal papers.
 
 ---
 
